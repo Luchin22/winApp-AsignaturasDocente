@@ -16,6 +16,10 @@ namespace winApp_AsignaturasDocente
         {
             InitializeComponent();
         }
-       
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
